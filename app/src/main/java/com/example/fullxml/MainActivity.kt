@@ -28,18 +28,19 @@ class MainActivity : AppCompatActivity() {
     fun getLista(): List<DataItem> {
 
         return listOf<DataItem>(
-            DataItem(url = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwildrift.leagueoflegends.com%2Fes-mx%2Fchampions%2Fteemo%2F&psig=AOvVaw1CcLlhjCCW6k56Ip-jtk6s&ust=1715139622854000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiEotrS-oUDFQAAAAAdAAAAABAD",
+            DataItem(url = "https://i.etsystatic.com/48906423/r/il/731d41/5728792526/il_570xN.5728792526_obhi.jpg",
                 title = "Teemo 1"),
-            DataItem(url = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwildrift.leagueoflegends.com%2Fes-mx%2Fchampions%2Fteemo%2F&psig=AOvVaw1CcLlhjCCW6k56Ip-jtk6s&ust=1715139622854000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiEotrS-oUDFQAAAAAdAAAAABAD",
+            DataItem(url = "https://i.etsystatic.com/48906423/r/il/731d41/5728792526/il_570xN.5728792526_obhi.jpg",
                 title = "Teemo 2"),
-            DataItem(url = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwildrift.leagueoflegends.com%2Fes-mx%2Fchampions%2Fteemo%2F&psig=AOvVaw1CcLlhjCCW6k56Ip-jtk6s&ust=1715139622854000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiEotrS-oUDFQAAAAAdAAAAABAD",
+            DataItem(url = "https://i.etsystatic.com/48906423/r/il/731d41/5728792526/il_570xN.5728792526_obhi.jpg",
                 title = "Teemo 3"),
-            DataItem(url = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwildrift.leagueoflegends.com%2Fes-mx%2Fchampions%2Fteemo%2F&psig=AOvVaw1CcLlhjCCW6k56Ip-jtk6s&ust=1715139622854000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiEotrS-oUDFQAAAAAdAAAAABAD",
+            DataItem(url = "https://i.etsystatic.com/48906423/r/il/731d41/5728792526/il_570xN.5728792526_obhi.jpg",
                 title = "Teemo 4"),
-            DataItem(url = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwildrift.leagueoflegends.com%2Fes-mx%2Fchampions%2Fteemo%2F&psig=AOvVaw1CcLlhjCCW6k56Ip-jtk6s&ust=1715139622854000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiEotrS-oUDFQAAAAAdAAAAABAD",
+            DataItem(url = "https://i.etsystatic.com/48906423/r/il/731d41/5728792526/il_570xN.5728792526_obhi.jpg",
                 title = "Teemo 5"),
-            DataItem(url = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwildrift.leagueoflegends.com%2Fes-mx%2Fchampions%2Fteemo%2F&psig=AOvVaw1CcLlhjCCW6k56Ip-jtk6s&ust=1715139622854000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiEotrS-oUDFQAAAAAdAAAAABAD",
+            DataItem(url = "https://i.etsystatic.com/48906423/r/il/731d41/5728792526/il_570xN.5728792526_obhi.jpg",
                 title = "Teemo 6"),
+
         )
     }
 
