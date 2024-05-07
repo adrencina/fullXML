@@ -23,7 +23,7 @@ class MyAdapter(private val miLista: List<DataItem>) : RecyclerView.Adapter<MyVi
 }
 
 
-class MyViewHolder(private val view: View) : RecyclerView.ViewHolder(view){
+class MyViewHolder(view: View) : RecyclerView.ViewHolder(view){
 
     private val binding = ItemLista1Binding.bind(view)
     fun render(data: DataItem){
